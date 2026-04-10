@@ -1,6 +1,6 @@
 # Posts React
 
-Aplicación de práctica que consume la API pública [JSONPlaceholder](https://jsonplaceholder.typicode.com/) y muestra las **primeras 10 publicaciones** en forma de tarjetas con Bootstrap. Desarrollada como ejercicio de bootcamp para aprender los fundamentos de React.
+Aplicación de práctica que consume la API pública [JSONPlaceholder](https://jsonplaceholder.typicode.com/) y muestra las **primeras 10 publicaciones** en forma de tarjetas con Bootstrap. Desarrollada como ejercicio para aprender los fundamentos de React.
 
 ---
 
@@ -11,9 +11,6 @@ El objetivo de este proyecto es practicar los conceptos esenciales de React con 
 1. **Cargando** — mientras esperamos la respuesta, mostramos un spinner.
 2. **Error** — si algo falla, mostramos una alerta con el mensaje.
 3. **Éxito** — cuando llegan los datos, los renderizamos como tarjetas.
-
-Todo el estilo se resuelve con clases de Bootstrap, sin CSS personalizado, para centrar la atención en la lógica de React.
-
 ---
 
 ## Stack tecnológico
@@ -102,10 +99,6 @@ posts-react/
 ```
 
 ---
-
-## Capturas (opcional)
-
-Puedes añadir aquí capturas de pantalla de la app en ejecución una vez la tengas corriendo.
 
 ---
 
