@@ -99,9 +99,3 @@ posts-react/
 ```
 
 ---
-
----
-
-## Licencia
-
-Proyecto educativo. Úsalo, modifícalo y apréndelo libremente.
