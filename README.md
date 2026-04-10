@@ -1,6 +1,7 @@
 # Posts React
 
 Aplicación de práctica que consume la API pública [JSONPlaceholder](https://jsonplaceholder.typicode.com/) y muestra las **primeras 10 publicaciones** en forma de tarjetas con Bootstrap. 
+
 ---
 
 ## Descripción del proyecto
